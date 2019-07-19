@@ -1,0 +1,5 @@
+.cardMenu:hover
+{
+	cursor: pointer;
+	background-color: rgb(225, 225, 225);
+}
